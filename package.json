@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "test:watch": "jest --watch"
+  },
   "devDependencies": {
     "eslint": "^7.32.0",
     "eslint-config-prettier": "^8.3.0",
